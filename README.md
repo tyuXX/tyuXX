@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyuxx&show_icons=true&locale=en" alt="tyuxx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyuxx&" alt="tyuxx" /></p>
+
+<p align="left"> <img src="https://github.com/tyuXX/tyuXX/blob/output/github-contribution-grid-snake.gif"/> </p>
