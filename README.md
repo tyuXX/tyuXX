@@ -1,5 +1,6 @@
 <h1 align="center">Me nam be [tyuXX]</h1>
 <h3 align="center">I like Cheesee</h3>
+<h3 align="center" src="https://timerthingy.gkalpen.repl.co"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyuxx&label=Profile%20views&color=0e75b6&style=flat" alt="tyuxx" /> </p>
 
